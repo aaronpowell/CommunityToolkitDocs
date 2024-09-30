@@ -53,3 +53,5 @@
           href: https://aka.ms/windowstoolkitapp
     - name: .NET MAUI Community Toolkit
       href: maui/index.md
+    - name: .NET Aspire Community Toolkit
+      href: aspire/index.md

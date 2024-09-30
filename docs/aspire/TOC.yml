@@ -1,0 +1,29 @@
+items:
+  - name: .NET Aspire Community Toolkit
+    href: index.md
+  - name: Setup
+    items:
+      - name: Get started
+        href: get-started.md
+  - name: Integrations
+    items:
+      - name: Azure Static Web Apps emuator
+        href: integrations/hosting-azure-static-web-apps-emulator.md
+      - name: Java/Spring
+        href: integrations/hosting-java-spring.md
+      - name: Node.js Extensions
+        href: integrations/hosting-nodejs-extensions.md
+      - name: Ollama
+        href: integrations/hosting-ollama.md
+  - name: Resources
+    items:
+      - name: .NET Aspire
+        href: /dotnet/aspire
+      - name: Diagnostics
+        href: diagnostics
+      - name: FAQ
+        href: faq.md
+      - name: Versioning
+        href: versioning.md
+      - name: GitHub Repo
+        href: https://github.com/CommunityToolkit/Aspire
